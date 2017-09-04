@@ -1,0 +1,68 @@
+{
+  "clientes": [
+    {
+      "id": 2,
+      "nome": "segundo Nome Teste",
+      "cpf": "123.456.7289-0",
+      "endereco": "Rua T123este dos teste",
+      "usuario": "usuario2",
+      "senha": "2senha"
+    },
+    {
+      "nome": "Timmy VonRueden",
+      "cpf": "243289148",
+      "endereco": "Dagobah",
+      "usuario": "Fearow",
+      "senha": "inicial4635",
+      "id": 3
+    },
+    {
+      "nome": "Duane MacGyver",
+      "cpf": "954331977",
+      "endereco": "Yavin",
+      "usuario": "Ninetales",
+      "senha": "inicial3381",
+      "id": 4
+    },
+    {
+      "nome": "Ruben Abernathy PhD",
+      "cpf": "975568743",
+      "endereco": "Endor",
+      "usuario": "Haunter",
+      "senha": "inicial3625",
+      "id": 5
+    },
+    {
+      "nome": "Paxton Haag",
+      "cpf": "811450165",
+      "endereco": "Geonosis",
+      "usuario": "Arcanine",
+      "senha": "inicial1886",
+      "id": 6
+    },
+    {
+      "nome": "Stanley Osinski",
+      "cpf": "239489986",
+      "endereco": "Geonosis",
+      "usuario": "Caterpie",
+      "senha": "inicial5877",
+      "id": 7
+    },
+    {
+      "nome": "Jayce Bailey I",
+      "cpf": "618193999",
+      "endereco": "Sullust",
+      "usuario": "Magnemite",
+      "senha": "inicial5091",
+      "id": 8
+    },
+    {
+      "nome": "Andrew Quigley",
+      "cpf": "777565813",
+      "endereco": "Coruscant",
+      "usuario": "Machoke",
+      "senha": "inicial4942",
+      "id": 9
+    }
+  ]
+}
