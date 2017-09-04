@@ -1,6 +1,8 @@
 # REST-API-Testing
 
-Simple automated test suite for rest-api testing with endpoint configuration in *fakeAPI* folder.
+Simple automated test suite for rest-api testing using cucumber, faker, rspec and **HTTParty** with endpoint configuration in *fakeAPI* folder.
+
+
 
 ## Prerequisites
 
